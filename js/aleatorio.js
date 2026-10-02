@@ -1,4 +1,4 @@
-const nomes = ["Nicoly", "Verediane"];
+const nomes = ["Miguel", "Tainá", "Letícia", "Gabriel", "Beatriz", "Rafael", "Sophia"];
 
 export function aleatorio(lista) {
     const posicao = Math.floor(Math.random() * lista.length);
